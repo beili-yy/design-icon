@@ -1,0 +1,34 @@
+<svg width="36" height="36" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_d_57432_18452)">
+<rect x="16.4748" y="12.6083" width="13.4214" height="15.2515" rx="2.46332" fill="url(#paint0_linear_57432_18452)"/>
+<foreignObject x="0" y="-2.03354" width="31.7979" height="35.9953"><div xmlns="http://www.w3.org/1999/xhtml" style="backdrop-filter:blur(3px);clip-path:url(#bgblur_0_57432_18452_clip_path);height:100%;width:100%"></div></foreignObject><path data-figma-bg-blur-radius="6" d="M8.60525 27.8611H23.191C24.5743 27.8611 25.6957 26.7397 25.6957 25.3564V9.66567L20.0971 4.06708H8.60525C7.22198 4.06708 6.10062 5.18844 6.10062 6.57171V25.3565C6.10062 26.7397 7.22198 27.8611 8.60525 27.8611Z" fill="#F4C771" fill-opacity="0.6"/>
+<foreignObject x="0" y="-2.03354" width="31.7979" height="35.9953"><div xmlns="http://www.w3.org/1999/xhtml" style="backdrop-filter:blur(3px);clip-path:url(#bgblur_1_57432_18452_clip_path);height:100%;width:100%"></div></foreignObject><path data-figma-bg-blur-radius="6" d="M8.60481 4.37191H19.971L25.3904 9.79137V25.3567C25.3903 26.5714 24.4058 27.556 23.1911 27.556H8.60481C7.39029 27.5558 6.40558 26.5712 6.40545 25.3567V6.57127C6.40569 5.35681 7.39035 4.37215 8.60481 4.37191Z" stroke="url(#paint1_linear_57432_18452)" stroke-width="0.6"/>
+<rect x="8.89673" y="11.0633" width="10.9811" height="1.22012" rx="0.6" fill="white"/>
+<rect x="8.89673" y="15.2674" width="7.32074" height="1.22012" rx="0.6" fill="white"/>
+<foreignObject x="13.9965" y="-2.03354" width="17.8014" height="17.7994"><div xmlns="http://www.w3.org/1999/xhtml" style="backdrop-filter:blur(3px);clip-path:url(#bgblur_2_57432_18452_clip_path);height:100%;width:100%"></div></foreignObject><path data-figma-bg-blur-radius="6" d="M22.6017 9.66517H25.6952L20.0971 4.06708V7.16053C20.0971 8.54381 21.2185 9.66517 22.6017 9.66517Z" fill="#FEE6B8"/>
+<path opacity="0.3" d="M24.9595 9.36044H22.6013C21.3867 9.3602 20.4019 8.37474 20.4019 7.16008V4.80285L24.9595 9.36044Z" stroke="white" stroke-width="0.6"/>
+</g>
+<defs>
+<filter id="filter0_d_57432_18452" x="0" y="0" width="36" height="35.9953" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="2"/>
+<feGaussianBlur stdDeviation="3"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.658333 0 0 0 0 0.508562 0 0 0 0 0.123438 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_57432_18452"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_57432_18452" result="shape"/>
+</filter>
+<clipPath id="bgblur_0_57432_18452_clip_path" transform="translate(0 2.03354)"><path d="M8.60525 27.8611H23.191C24.5743 27.8611 25.6957 26.7397 25.6957 25.3564V9.66567L20.0971 4.06708H8.60525C7.22198 4.06708 6.10062 5.18844 6.10062 6.57171V25.3565C6.10062 26.7397 7.22198 27.8611 8.60525 27.8611Z"/>
+</clipPath><clipPath id="bgblur_1_57432_18452_clip_path" transform="translate(0 2.03354)"><path d="M8.60481 4.37191H19.971L25.3904 9.79137V25.3567C25.3903 26.5714 24.4058 27.556 23.1911 27.556H8.60481C7.39029 27.5558 6.40558 26.5712 6.40545 25.3567V6.57127C6.40569 5.35681 7.39035 4.37215 8.60481 4.37191Z"/>
+</clipPath><clipPath id="bgblur_2_57432_18452_clip_path" transform="translate(-13.9965 2.03354)"><path d="M22.6017 9.66517H25.6952L20.0971 4.06708V7.16053C20.0971 8.54381 21.2185 9.66517 22.6017 9.66517Z"/>
+</clipPath><linearGradient id="paint0_linear_57432_18452" x1="16.5238" y1="20.4707" x2="29.8951" y2="20.4707" gradientUnits="userSpaceOnUse">
+<stop offset="0.568964" stop-color="#FFA462"/>
+<stop offset="1" stop-color="#FFDB77"/>
+</linearGradient>
+<linearGradient id="paint1_linear_57432_18452" x1="15.8981" y1="4.06708" x2="15.8981" y2="27.8611" gradientUnits="userSpaceOnUse">
+<stop stop-color="white" stop-opacity="0.3"/>
+<stop offset="1" stop-color="white" stop-opacity="0"/>
+</linearGradient>
+</defs>
+</svg>

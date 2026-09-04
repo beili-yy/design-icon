@@ -1,3 +1,5 @@
-<svg width="2" height="5" viewBox="0 0 2 5" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M0 4.99869H1.99944V8.7339e-05H0V4.99869Z" fill="black"/>
+<svg width="14" height="11" viewBox="0 0 14 11" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect opacity="0.1" x="1" y="3.48242" width="12" height="5.90667" rx="1.23529" stroke="black" stroke-width="2"/>
+<rect opacity="0.55" x="0.988333" y="3.47076" width="12.0233" height="1.97667" rx="0.988333" stroke="black" stroke-width="1.97667"/>
+<path opacity="0.55" d="M1 1H13" stroke="black" stroke-width="2" stroke-linecap="round"/>
 </svg>
